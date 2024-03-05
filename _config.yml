@@ -2,8 +2,8 @@ title: Jason Ballard Website
 description: >- # this means to ignore newlines until "baseurl:"
   This site is an attempt to build a website using GitHub pages
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+baseurl: "https://jbtallgrass.github.io/cintel-01-pages/" # the subpath of your site, e.g. /blog
+url: "https://jbtallgrass.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 theme: minima
