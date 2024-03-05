@@ -10,7 +10,7 @@ Here's a clickable link: [ChatGPT 4 Turbo](https://chat.openai.com/)
 
 Images look like links except with an exclamation directly in front
 
-!Week 7 Data Fundamentals](https://github.com/JBtallgrass/datafun-07-ml/blob/main/figures/Population_vs_MedHouseValue.png)
+![Week 7 Data Fundamentals](https://github.com/JBtallgrass/datafun-07-ml/blob/main/figures/Population_vs_MedHouseValue.png)
 
 ## Reminders
 
