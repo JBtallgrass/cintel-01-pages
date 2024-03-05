@@ -3,7 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is an attempt to build a website using GitHub pages
 # Site settings
 baseurl: "https://jbtallgrass.github.io/cintel-01-pages/" # the subpath of your site, e.g. /blog
-url: "https://jbtallgrass.github.io/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Build settings
 theme: minima
@@ -24,7 +24,7 @@ exclude:
 
 # Optional settings
 author: Jason Ballard
-email: ballardjasona@gmail.comom
+email: ballardjasona@gmail.com
 twitter_username:
 github_username: JBtallgrass
 
